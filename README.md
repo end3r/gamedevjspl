@@ -6,6 +6,18 @@
 	- Strona główna
 	- Wydarzenia
 	- Prelegenci
+	- Sponsorzy
+	- Na żywo
+	- Kontakt
+- social
+	- Facebook
+	- Twitter
+	- YouTube
+- lista nadchodzących wydarzeń (RSS)
+- menu w stopce
+	- Strona główna
+	- Wydarzenia
+	- Prelegenci
 	- Prezentacje
 	- Sponsorzy
 	- Partnerzy
@@ -13,11 +25,6 @@
 	- Blog
 	- O nas
 	- Kontakt
-- social
-	- Facebook
-	- Twitter
-	- YouTube
-- lista nadchodzących wydarzeń (RSS)
 
 ### WYDARZENIA [/wydarzenia]
 
