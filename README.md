@@ -11,6 +11,8 @@
 	- Partnerzy
 	- Na żywo
 	- Blog
+	- O nas
+	- Kontakt
 - social
 	- Facebook
 	- Twitter
@@ -93,3 +95,11 @@
 ### BLOG [/blog]
 
 - wpisy podsumowujące dane wydarzenia
+
+### O NAS [/o-nas]
+
+- statyczna strona z listą organizatorów: imię i nazwisko, zdjęcie, bio, linki
+
+### KONTAKT [/kontakt]
+
+- formularz zgłoszeniowy: zostań prelegentem/sponsorem, lub ogólny
